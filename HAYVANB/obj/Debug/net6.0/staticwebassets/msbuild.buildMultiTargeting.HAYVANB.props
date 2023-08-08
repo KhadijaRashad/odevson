@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HAYVANB.props" />
+</Project>
